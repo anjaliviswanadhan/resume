@@ -1,0 +1,12 @@
+body{
+	background-color: #dbedff;
+	border-bottom: #fff;
+}
+#change{
+	width: 10em;  
+	height: 3em;
+	font-size: 15px;
+	background-color: #e1e4e8;
+	box-shadow: #6E7849 0px 0px 10px;
+
+}
